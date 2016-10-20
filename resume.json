@@ -1,0 +1,210 @@
+{
+  "basics": {
+    "name": "Robert Sicoie",
+    "label": "Software Developer",
+    "picture": "./robert.png",
+    "email": "robert@sicoie.ro",
+    "phone": "+40741084400",
+    "website": "http://sicoie.ro",
+    "summary": "Computer software professional designing and building large scale distributed systems.",
+    "location": {
+      "address": "Edgar Quinet, 22",
+      "postalCode": "400684",
+      "city": "Cluj-Napoca",
+      "countryCode": "RO",
+      "region": "Europe"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "robertsicoie",
+        "url": "https://www.linkedin.com/in/robertsicoie"
+      },
+	  {
+        "network": "Twitter",
+        "username": "robertsicoie",
+        "url": "https://twitter.com/robertsicoie"
+      },
+	  {
+        "network": "GitHub",
+        "username": "robertsicoie",
+        "url": "https://github.com/robertsicoie"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Betfair",
+      "position": "Java Developer",
+      "website": "http://www.betfairromania.ro/",
+      "startDate": "2012-03-20",
+      "endDate": "",
+      "summary": "Design, implementation and maintenance of distributed systems using latest Java and Java related technology and tools.",
+      "highlights": [
+      ]
+    },
+	{
+      "company": "OSF Global Services",
+      "position": "Java Developer / Team Lead",
+      "website": "https://www.osf-global.com/",
+      "startDate": "2011-04-01",
+      "endDate": "2012-03-20",
+      "summary": "Developing a specialized technical support services that helps cloud and Internet of Things (IOT) companies drive adoption, create new revenue streams and mitigate costs." ,
+      "highlights": [
+	  	"Software development and integration with JBoss ESB, JAX-WS, JAX-RPC, REST, Hibernate, Liferay.",
+		"Leading a team of four developers."
+      ]
+    },
+	{
+      "company": "Fortech S.R.L.",
+      "position": "Software Developer",
+      "website": "https://www.fortech.ro/",
+      "startDate": "2007-02-21",
+      "endDate": "2011-03-31",
+      "summary": "Working on many projects for various big industry clients the company had. I've been involved in nearly every step of the software development process." ,
+      "highlights": [
+	  	"Enterprise software development and integration with J2SE, JAX-WS, EJB, Struts, Hibernate.",
+		"System programming: Ansi C, Bash, Perl. Porting open-source software (vsftpd, bftpd, OpenSSH, rssh, OpenSSL, curl) to Unix-like machines and customization for integration with customer's in-house  enterprise application."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Orca Swimming and Triathlon Club",
+      "position": "Event Manager",
+      "website": "http://club-orca.ro/",
+      "startDate": "2015-03-01",
+      "endDate": "",
+      "summary": "Cover all aspects of sports events management.",
+      "highlights": [
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Babes-Bolyai University",
+      "area": "Distributed Systems",
+      "studyType": "M.Sc.",
+      "startDate": "2008-10-01",
+      "endDate": "2010-07-15"
+    },
+	{
+      "institution": "Babes-Bolyai University",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2005-10-01",
+      "endDate": "2008-07-15"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Server Side Development",
+      "level": "Master",
+      "keywords": [
+	  	"Systems integration",
+        "Resilience mechanisms",
+        "Microservices",
+		"Reactive systems",
+		"Adaptive systems"
+      ]
+    },
+    {
+      "name": "Distributed Systems",
+      "level": "Master",
+      "keywords": [
+        "High availability",
+        "Scalability",
+		"Resilience",
+		"Availability",
+        "Message queues",
+		"Kafka",
+		"Hazelcast",
+		"EhCache"
+      ]
+    },
+	{
+      "name": "Operating systems",
+      "level": "Master",
+      "keywords": [
+        "Linux",
+        "Unix",
+        "OpenVMS",
+		"HP-UX",
+		"AIX"
+      ]
+    },
+	{
+      "name": "Operating systems",
+      "level": "Master",
+      "keywords": [
+        "Linux",
+        "Unix",
+        "OpenVMS",
+		"HP-UX",
+		"AIX"
+      ]
+    },
+	{
+      "name": "NoSQL",
+      "level": "Master",
+      "keywords": [
+        "Cassandra",
+        "MongoDB"
+      ]
+    },
+	{
+      "name": "Continuous Delivery",
+      "level": "Master",
+      "keywords": [
+        "Chef",
+		"Jenkins",
+        "Go Thoughtworks",
+		"Docker",
+		"Vagrant"
+      ]
+    },
+	{
+      "name": "Programming languages",
+      "level": "Master",
+      "keywords": [
+        "Java",
+        "bash",
+		"php",
+		"python",
+		"Perl"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    },
+	{
+      "language": "Romanian",
+      "fluency": "Native"
+    },
+	{
+      "language": "Hungarian",
+      "fluency": "Bilingual proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Distributed systems",
+      "keywords": [
+        "Microservices",
+        "Architectural patterns",
+		"Full stack"
+      ]
+    },
+    {
+      "name": "Endurance sports",
+      "keywords": [
+        "Triathlon",
+        "Cycling",
+		"Running"
+      ]
+    }
+  ]
+}
