@@ -49,7 +49,7 @@
       "website": "https://www.osf-global.com/",
       "startDate": "2011-04-01",
       "endDate": "2012-03-20",
-      "summary": "Developing a specialized technical support services that helps cloud and Internet of Things (IOT) companies drive adoption, create new revenue streams and mitigate costs." ,
+      "summary": "Developing specialized technical support services that helps cloud and Internet of Things (IOT) companies drive adoption, create new revenue streams and mitigate costs." ,
       "highlights": [
 	  	"Software development and integration with JBoss ESB, JAX-WS, JAX-RPC, REST, Hibernate, Liferay.",
 		"Leading a team of four developers."
@@ -98,28 +98,21 @@
   ],
   "skills": [
     {
-      "name": "Server Side Development",
-      "level": "Master",
-      "keywords": [
-	  	"Systems integration",
-        "Resilience mechanisms",
-        "Microservices",
-		"Reactive systems",
-		"Adaptive systems"
-      ]
-    },
-    {
       "name": "Distributed Systems",
       "level": "Master",
       "keywords": [
         "High availability",
         "Scalability",
 		"Resilience",
-		"Availability",
         "Message queues",
 		"Kafka",
 		"Hazelcast",
-		"EhCache"
+		"EhCache",
+		"Systems integration",
+        "Resilience mechanisms",
+        "Microservices",
+		"Reactive systems",
+		"Adaptive systems"
       ]
     },
 	{
@@ -134,22 +127,14 @@
       ]
     },
 	{
-      "name": "Operating systems",
+      "name": "Data tools and NoSQL",
       "level": "Master",
       "keywords": [
-        "Linux",
-        "Unix",
-        "OpenVMS",
-		"HP-UX",
-		"AIX"
-      ]
-    },
-	{
-      "name": "NoSQL",
-      "level": "Master",
-      "keywords": [
+      	"Oracle",
+      	"MySQL",
         "Cassandra",
-        "MongoDB"
+        "MongoDB",
+        "Elasticsearch"
       ]
     },
 	{
@@ -170,7 +155,7 @@
         "Java",
         "bash",
 		"php",
-		"python",
+		"Python",
 		"Perl"
       ]
     }
