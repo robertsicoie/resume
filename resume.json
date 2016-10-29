@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Robert Sicoie",
-    "label": "Software Developer",
+    "label": "Software Developer / Architect",
     "picture": "./robert.png",
     "email": "robert@sicoie.ro",
     "phone": "+40741084400",
@@ -41,6 +41,11 @@
       "endDate": "",
       "summary": "Design, implementation and maintenance of distributed systems using latest Java and Java related technology and tools.",
       "highlights": [
+      	"Design and implement RESTful web services with a keen eye on architecture.",
+      	"Design and implement mechanisms to improve consistency, availability and performace of the backend services.",
+      	"Integration with in-house or third-party web services and message queues.",
+      	"Integration with relational databases and NoSQL data tools. Data design for NoSQL data stores. Cassandra cluster configuration and maintainance.",
+      	"Heavy data migrations."
       ]
     },
 	{
@@ -157,6 +162,15 @@
 		"php",
 		"Python",
 		"Perl"
+      ]
+    },
+    {
+      "name": "Soft skills",
+      "level": "Master",
+      "keywords": [
+        "Very good communication skills",
+        "Proven ability to work well under preassure",
+        "Ability to lead without authority"
       ]
     }
   ],
