@@ -6,7 +6,7 @@
     "email": "robert@sicoie.ro",
     "phone": "+40741084400",
     "website": "http://sicoie.ro",
-    "summary": "Computer software professional designing and building large scale distributed systems.",
+    "summary": "Computer software professional.",
     "location": {
       "address": "Edgar Quinet, 22",
       "postalCode": "400684",
@@ -33,12 +33,20 @@
     ]
   },
   "work": [
+   {
+      "company": "Evozon Systems",
+      "position": "Software Architect",
+      "website": "https://www.evozon.com",
+      "startDate": "2017-04-24",
+      "endDate": ""
+    },
+
     {
       "company": "Betfair",
       "position": "Java Developer",
       "website": "http://www.betfairromania.ro/",
       "startDate": "2012-03-20",
-      "endDate": "",
+      "endDate": "2017-04-21",
       "summary": "Design, implementation and maintenance of distributed systems using latest Java and Java related technology and tools.",
       "highlights": [
       	"Design and implement RESTful web services with a keen eye on architecture.",
@@ -48,7 +56,7 @@
       	"Heavy data migrations."
       ]
     },
-	{
+    {
       "company": "OSF Global Services",
       "position": "Java Developer / Team Lead",
       "website": "https://www.osf-global.com/",
