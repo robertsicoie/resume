@@ -1,12 +1,11 @@
 {
   "basics": {
     "name": "Robert Sicoie",
-    "label": "Software Developer / Architect",
-    "picture": "./robert.png",
+    "label": "Computer software professional",
+    "picture": "./robert.jpg",
     "email": "robert@sicoie.ro",
     "phone": "+40741084400",
     "website": "http://sicoie.ro",
-    "summary": "Computer software professional.",
     "location": {
       "address": "Edgar Quinet, 22",
       "postalCode": "400684",
