@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Robert Sicoie",
-    "label": "Computer software professional",
+    "label": "Software Architect",
     "picture": "./robert.jpg",
     "email": "robert@sicoie.ro",
     "phone": "+40741084400",
@@ -37,7 +37,12 @@
       "position": "Software Architect",
       "website": "https://www.evozon.com",
       "startDate": "2017-04-24",
-      "endDate": ""
+      "endDate": "",
+      "summary": "As a hands-on Java Software Architect for E-commerce businesses built on the SAP Hybris platform, I get involved in the complete software development lifecycle, focusing on design and architectural decisions, reviews, refactoring, coding, continuous integration and automation.",
+      "highlights": [
+        "Constantly communicate with stakeholders, IT team and development team to ensure alignment of technical and operational aspects of the developed product with the business needs.",
+        "Propose, document and communicate processes, tools, development and testing techniques to improve productivity and quality and I offer support for development teams to adopt and adapt these aspects." 
+      ]
     },
 
     {
@@ -197,20 +202,13 @@
   ],
   "interests": [
     {
-      "name": "Distributed systems",
-      "keywords": [
-        "Microservices",
-        "Architectural patterns",
-		"Full stack"
-      ]
+      "name": "Distributed systems"
     },
     {
-      "name": "Endurance sports",
-      "keywords": [
-        "Triathlon",
-        "Cycling",
-		"Running"
-      ]
+      "name": "Open source"
+    },
+    {
+      "name": "Endurance sports"
     }
   ]
 }
