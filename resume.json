@@ -126,16 +126,23 @@
       "keywords": [
         "High availability",
         "Scalability",
-		"Resilience",
+	"Resilience",
         "Message queues",
-		"Kafka",
-		"Hazelcast",
-		"EhCache",
-		"Systems integration",
+	"Kafka",
+	"Hazelcast",
+	"EhCache",
+	"Systems integration",
         "Resilience mechanisms",
         "Microservices",
-		"Reactive systems",
-		"Adaptive systems"
+	"Reactive systems",
+	"Adaptive systems"
+      ]
+    },
+    {
+      "name": "Cloud Computing",
+      "level": "Master",
+      "keywords": [
+        "Google Cloud Platform - Certified Professional Cloud Architect"
       ]
     },
     {
@@ -145,8 +152,8 @@
         "Linux",
         "Unix",
         "OpenVMS",
-		"HP-UX",
-		"AIX"
+	"HP-UX",
+	"AIX"
       ]
     },
     {
@@ -164,11 +171,12 @@
       "name": "Continuous Delivery",
       "level": "Master",
       "keywords": [
+        "Ansible",
         "Chef",
-		"Jenkins",
+	"Jenkins",
         "Go Thoughtworks",
-		"Docker",
-		"Vagrant"
+	"Docker",
+	"Vagrant"
       ]
     },
     {
@@ -177,9 +185,9 @@
       "keywords": [
         "Java",
         "bash",
-		"php",
-		"Python",
-		"Perl"
+	"php",
+	"Python",
+	"Perl"
       ]
     },
     {
@@ -197,11 +205,11 @@
       "language": "English",
       "fluency": "Full professional proficiency"
     },
-	{
+    {
       "language": "Romanian",
       "fluency": "Native"
     },
-	{
+    {
       "language": "Hungarian",
       "fluency": "Bilingual proficiency"
     }
