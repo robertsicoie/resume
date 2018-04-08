@@ -47,7 +47,7 @@
 
     {
       "company": "Betfair",
-      "position": "Java Developer",
+      "position": "Software Engineer",
       "website": "http://www.betfairromania.ro/",
       "startDate": "2012-03-20",
       "endDate": "2017-04-21",
@@ -113,6 +113,12 @@
       "endDate": "2008-07-15"
     }
   ],
+  "awards": [{
+    "title": "Professional Cloud Architect",
+    "date": "2018-03-29",
+    "awarder": "Google Cloud",
+    "summary": "A Google Cloud Certified - Professional Cloud Architect enables organizations to leverage Google Cloud technologies. Through an understanding of cloud architecture and Google technology, this individual can design, develop, and manage robust, secure, scalable, highly available, and dynamic solutions to drive business objectives."
+  }],
   "skills": [
     {
       "name": "Distributed Systems",
@@ -132,7 +138,7 @@
 		"Adaptive systems"
       ]
     },
-	{
+    {
       "name": "Operating systems",
       "level": "Master",
       "keywords": [
@@ -143,7 +149,7 @@
 		"AIX"
       ]
     },
-	{
+    {
       "name": "Data tools and NoSQL",
       "level": "Master",
       "keywords": [
@@ -165,7 +171,7 @@
 		"Vagrant"
       ]
     },
-	{
+    {
       "name": "Programming languages",
       "level": "Master",
       "keywords": [
