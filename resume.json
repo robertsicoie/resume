@@ -62,7 +62,7 @@
 
     {
       "company": "Betfair",
-      "position": "Java Developer",
+      "position": "Software Engineer",
       "website": "http://www.betfairromania.ro/",
       "startDate": "2012-03-20",
       "endDate": "2017-04-21",
@@ -128,6 +128,12 @@
       "endDate": "2008-07-15"
     }
   ],
+  "awards": [{
+    "title": "Professional Cloud Architect",
+    "date": "2018-03-29",
+    "awarder": "Google Cloud",
+    "summary": "A Google Cloud Certified - Professional Cloud Architect enables organizations to leverage Google Cloud technologies. Through an understanding of cloud architecture and Google technology, this individual can design, develop, and manage robust, secure, scalable, highly available, and dynamic solutions to drive business objectives."
+  }],
   "skills": [
     {
       "name": "Distributed Systems",
@@ -135,30 +141,37 @@
       "keywords": [
         "High availability",
         "Scalability",
-		"Resilience",
+	"Resilience",
         "Message queues",
-		"Kafka",
-		"Hazelcast",
-		"EhCache",
-		"Systems integration",
+	"Kafka",
+	"Hazelcast",
+	"EhCache",
+	"Systems integration",
         "Resilience mechanisms",
         "Microservices",
-		"Reactive systems",
-		"Adaptive systems"
+	"Reactive systems",
+	"Adaptive systems"
       ]
     },
-	{
+    {
+      "name": "Cloud Computing",
+      "level": "Master",
+      "keywords": [
+        "Google Cloud Platform - Certified Professional Cloud Architect"
+      ]
+    },
+    {
       "name": "Operating systems",
       "level": "Master",
       "keywords": [
         "Linux",
         "Unix",
         "OpenVMS",
-		"HP-UX",
-		"AIX"
+	"HP-UX",
+	"AIX"
       ]
     },
-	{
+    {
       "name": "Data tools and NoSQL",
       "level": "Master",
       "keywords": [
@@ -176,21 +189,21 @@
       "keywords": [
         "Ansible",
         "Chef",
-		"Jenkins",
+	"Jenkins",
         "Go Thoughtworks",
-		"Docker",
-		"Vagrant"
+	"Docker",
+	"Vagrant"
       ]
     },
-	{
+    {
       "name": "Programming languages",
       "level": "Master",
       "keywords": [
         "Java",
         "bash",
-		"php",
-		"Python",
-		"Perl"
+	"php",
+	"Python",
+	"Perl"
       ]
     },
     {
@@ -208,11 +221,11 @@
       "language": "English",
       "fluency": "Full professional proficiency"
     },
-	{
+    {
       "language": "Romanian",
       "fluency": "Native"
     },
-	{
+    {
       "language": "Hungarian",
       "fluency": "Bilingual proficiency"
     }
