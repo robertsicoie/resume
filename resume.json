@@ -46,6 +46,21 @@
     },
 
     {
+      "company": "Independent",
+      "position": "Software Consultant",
+      "website": "http://sicoie.ro",
+      "startDate": "2017-01-01",
+      "endDate": "",
+      "summary": "As an independent software professional I offer consultancy, guidance, workshops, trainings and talks, working together with the client to build skilled development teams and scale software products.",
+      "highlights": [
+        "Software architecture.",
+        "Agile software development.",
+        "Cloud computing.",
+        "Replatforming and software migrations."
+      ]
+    },
+
+    {
       "company": "Betfair",
       "position": "Java Developer",
       "website": "http://www.betfairromania.ro/",
@@ -91,7 +106,7 @@
       "position": "Event Manager",
       "website": "http://club-orca.ro/",
       "startDate": "2015-03-01",
-      "endDate": "",
+      "endDate": "2018-10-01",
       "summary": "Cover all aspects of sports events management.",
       "highlights": [
       ]
@@ -151,13 +166,15 @@
       	"MySQL",
         "Cassandra",
         "MongoDB",
-        "Elasticsearch"
+        "Elasticsearch",
+        "Solr"
       ]
     },
 	{
       "name": "Continuous Delivery",
       "level": "Master",
       "keywords": [
+        "Ansible",
         "Chef",
 		"Jenkins",
         "Go Thoughtworks",
@@ -181,7 +198,7 @@
       "level": "Master",
       "keywords": [
         "Very good communication skills",
-        "Proven ability to work well under preassure",
+        "Proven ability to work well under pressure",
         "Ability to lead without authority"
       ]
     }
