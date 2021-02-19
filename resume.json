@@ -32,19 +32,6 @@
     ]
   },
   "work": [
-   {
-      "company": "Evozon Systems",
-      "position": "Software Architect",
-      "website": "https://www.evozon.com",
-      "startDate": "2017-04-24",
-      "endDate": "",
-      "summary": "As a hands-on Java Software Architect for E-commerce businesses built on the SAP Hybris platform, I get involved in the complete software development lifecycle, focusing on design and architectural decisions, reviews, refactoring, coding, continuous integration and automation.",
-      "highlights": [
-        "Constantly communicate with stakeholders, IT team and development team to ensure alignment of technical and operational aspects of the developed product with the business needs.",
-        "Propose, document and communicate processes, tools, development and testing techniques to improve productivity and quality and I offer support for development teams to adopt and adapt these aspects." 
-      ]
-    },
-
     {
       "company": "Independent",
       "position": "Software Consultant",
@@ -57,6 +44,34 @@
         "Agile software development.",
         "Cloud computing.",
         "Replatforming and software migrations."
+      ]
+    },
+
+    {
+      "company": "Accesa",
+      "position": "Software Architect",
+      "website": "https://www.accesa.eu",
+      "startDate": "2020-07-20",
+      "endDate": "",
+      "summary": "Software and Solutions Architect focusing mainly on of Identity and Access Management integration through protocols like OAuth2, OIDC or CAS.",
+      "highlights": [
+        "Identity and Access Management.",
+        "Service interoperability.",
+        "Microservices.",
+        "Replatforming and software migration."
+      ]
+    },
+
+   {
+      "company": "Evozon Systems",
+      "position": "Software Architect",
+      "website": "https://www.evozon.com",
+      "startDate": "2017-04-24",
+      "endDate": "2020-07-20",
+      "summary": "As a hands-on Java Software Architect for E-commerce businesses built on the SAP Hybris platform, I get involved in the complete software development lifecycle, focusing on design and architectural decisions, reviews, refactoring, coding, continuous integration and automation.",
+      "highlights": [
+        "Constantly communicate with stakeholders, IT team and development team to ensure alignment of technical and operational aspects of the developed product with the business needs.",
+        "Propose, document and communicate processes, tools, development and testing techniques to improve productivity and quality and I offer support for development teams to adopt and adapt these aspects." 
       ]
     },
 
@@ -100,18 +115,6 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Orca Swimming and Triathlon Club",
-      "position": "Event Manager",
-      "website": "http://club-orca.ro/",
-      "startDate": "2015-03-01",
-      "endDate": "2018-10-01",
-      "summary": "Cover all aspects of sports events management.",
-      "highlights": [
-      ]
-    }
-  ],
   "education": [
     {
       "institution": "Babes-Bolyai University",
@@ -141,23 +144,24 @@
       "keywords": [
         "High availability",
         "Scalability",
-	"Resilience",
+	    "Resilience",
         "Message queues",
-	"Kafka",
-	"Hazelcast",
-	"EhCache",
-	"Systems integration",
+	    "Kafka",
+	    "Hazelcast",
+	    "EhCache",
+	    "Systems integration",
         "Resilience mechanisms",
         "Microservices",
-	"Reactive systems",
-	"Adaptive systems"
+	    "Reactive systems",
+	    "Adaptive systems"
       ]
     },
     {
       "name": "Cloud Computing",
       "level": "Master",
       "keywords": [
-        "Google Cloud Platform - Certified Professional Cloud Architect"
+        "Google Cloud Platform - Certified Professional Cloud Architect",
+        "Amazon Web Services"
       ]
     },
     {
@@ -167,8 +171,8 @@
         "Linux",
         "Unix",
         "OpenVMS",
-	"HP-UX",
-	"AIX"
+	    "HP-UX",
+	    "AIX"
       ]
     },
     {
@@ -177,6 +181,7 @@
       "keywords": [
       	"Oracle",
       	"MySQL",
+        "MsSQL",
         "Cassandra",
         "MongoDB",
         "Elasticsearch",
@@ -189,10 +194,11 @@
       "keywords": [
         "Ansible",
         "Chef",
-	"Jenkins",
+	    "Jenkins",
+        "Team City",
         "Go Thoughtworks",
-	"Docker",
-	"Vagrant"
+	    "Docker",
+	    "Vagrant"
       ]
     },
     {
@@ -201,9 +207,9 @@
       "keywords": [
         "Java",
         "bash",
-	"php",
-	"Python",
-	"Perl"
+        "php",
+	    "Python",
+	    "Perl"
       ]
     },
     {
@@ -236,9 +242,6 @@
     },
     {
       "name": "Open source"
-    },
-    {
-      "name": "Endurance sports"
     }
   ]
 }
